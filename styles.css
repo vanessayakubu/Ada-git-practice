@@ -16,3 +16,9 @@ h1 {
   max-width: 300px;
   text-align: center;
 }
+
+p {
+  font-family: inherit;
+  text-align: center;
+  font-size: 1rem;
+}
